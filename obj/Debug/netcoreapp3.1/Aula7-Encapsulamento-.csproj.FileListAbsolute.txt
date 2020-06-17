@@ -1,0 +1,13 @@
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.csprojAssemblyReference.cache
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.csproj.CoreCompileInputs.cache
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.AssemblyInfoInputs.cache
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.AssemblyInfo.cs
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.exe
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.deps.json
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.runtimeconfig.json
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.runtimeconfig.dev.json
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.dll
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\bin\Debug\netcoreapp3.1\Aula7-Encapsulamento-.pdb
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.dll
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.pdb
+C:\Users\Nayane\Desktop\Aula7-Encapsulamento-\obj\Debug\netcoreapp3.1\Aula7-Encapsulamento-.genruntimeconfig.cache
